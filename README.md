@@ -15,7 +15,7 @@
 
 ### 🚀 About me
 
-- 🔭 Currently learning **[Financial Machine Learning]**
+- 🔭 Currently learning **[e.g. web development with Python/Flask]**
 - 🌱 Looking for my first/next opportunity as a **remote developer**
 - 💡 Passionate about **Machine Learning and Computer Vision** — particularly interested in **Convolutional Neural Networks (CNNs)** for image segmentation, object detection, and real-time visual analysis
 - 🤖 Also focused on **robotics, embedded systems, and IoT**, combining perception (vision, sensors) with control and autonomous navigation
@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-
 </p>
 
 **Core areas:** Machine Learning · Deep Learning (CNNs) · Computer Vision · Data Analysis (SQL, R) · Robotics (ROS 2) · Embedded/IoT Systems
@@ -56,18 +55,18 @@
 - **[Embedded Inclusive Educational Assistance System](https://github.com/aldemar3002/Embedded-inclusive-educational-assistance-system)** — Accessibility-focused assistant combining **computer vision, NLP, and speech recognition** via Google Cloud APIs: real-time video/frame analysis, OCR, scene description, Spanish voice commands, text-to-speech, and translation.
 - **[ManchesterRobotics Puzzlebot — Line Follower](https://github.com/aldemar3002/ManchesterRobotics_Puzzlebot_Autonomous)** — Line-following control implementation for the Puzzlebot educational platform (Manchester Robotics). *[Add a short description of the control approach used, e.g. PID, once documented in the repo.]*
 
+<!-- Feel free to reorder or swap any of these for stronger/more recent work -->
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aldemar3002&show_icons=true&theme=default&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldemar3002&layout=compact&hide_border=true" />
+  <img src="./metrics.svg" alt="GitHub metrics" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldemar3002&hide_border=true" />
-</p>
+<!-- Esta imagen se genera automáticamente cada día por un GitHub Action (ver metrics.yml).
+     No depende de ningún servicio externo, así que no se romperá si un tercero pausa su servidor. -->
 
 ---
 
