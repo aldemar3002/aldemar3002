@@ -44,12 +44,12 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=default&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aldemar3002&show_icons=true&theme=default&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldemar3002&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldemar3002&hide_border=true" />
 </p>
 
 ---
