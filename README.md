@@ -15,7 +15,7 @@
 
 ### 🚀 About me
 
-- 🔭 Currently learning **[e.g. web development with Python/Flask]**
+- 🔭 Currently learning **[Financial Machine Learning]**
 - 🌱 Looking for my first/next opportunity as a **remote developer**
 - 💡 Passionate about **Machine Learning and Computer Vision** — particularly interested in **Convolutional Neural Networks (CNNs)** for image segmentation, object detection, and real-time visual analysis
 - 🤖 Also focused on **robotics, embedded systems, and IoT**, combining perception (vision, sensors) with control and autonomous navigation
